@@ -9,6 +9,7 @@ You will be exposed to basics behind the main communication protocol online webs
 * Link to slides: [https://tinyurl.com/wdcc-api-26](https://tinyurl.com/wdcc-api-26)
 * Link to GitHub repo:[https://github.com/UoaWDCC/workshop-js-node-apis-2026](https://github.com/UoaWDCC/workshop-js-node-apis-2026)
 * Shortened GitHub repo link:  [https://tinyurl.com/wdcc-js-26](https://tinyurl.com/wdcc-js-26)
+* Link to JavaScript Cheatsheet [https://canva.link/02y5zkfhrpagnfn](https://canva.link/02y5zkfhrpagnfn)
 * You will need to install Node.js: [nodejs.org](http://nodejs.org/)
 * Suggested IDE: [code.visualstudio.com](http://code.visualstudio.com/)
 * Postman: [postman.com](http://postman.com/) or can use VSCode Postman plugin
