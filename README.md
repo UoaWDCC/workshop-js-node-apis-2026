@@ -17,6 +17,10 @@ You will be exposed to basics behind the main communication protocol online webs
 * [https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1 ](https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1)
 * Recording link: Will be added after workshop
 
+## Examples & Practice
+
+The projects within the `examples` directory have examples of the concepts covered in the slides. These examples can be used to practice.
+
 ## Task
 
 Using the provided code in the `exercise` folder, create a basic HTTP API which will **Create**, **Read**, **Update** and **Delete** data (CRUD) from a simulated database.
