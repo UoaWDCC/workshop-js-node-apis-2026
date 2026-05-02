@@ -17,7 +17,7 @@ You will be exposed to basics behind the main communication protocol online webs
 ## Zoom room & Recording from the Workshop:
 
 * [https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1 ](https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1)
-* Recording link: Will be added after workshop
+* Recording link for first half: [https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97befe24-9658-4d5f-9482-b43e002154a1](https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97befe24-9658-4d5f-9482-b43e002154a1)
 
 ## Examples & Practice
 
